@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img_viaticos{
+    height: 400px;
+    position: relative;
+    margin-top: 80px;
+    width: calc(100% - 50px);
+    display: flex;
+    justify-content: center;
+}
+
+.space{
+    width: calc(100% - 50px);
+    height: 450px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}

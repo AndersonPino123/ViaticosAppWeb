@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.space{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.table{
+    border: 1px black solid;
+    width: 1200px;
+    height: 250px;
+    border-spacing: 0;
+}
+.table tr td{
+    border: 1px black solid;
+    width: 150px;
+    text-align: center;
+    font-family: Tahoma;
+}
+.table tbody td{
+   font-size: 14px; 
+}
+.table img{
+    width: 30px;
+    height: 30px;
+}
+.label_table{
+    width: 1200px;
+    height: 20px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-family: Tahoma;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
